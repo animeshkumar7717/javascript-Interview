@@ -10,5 +10,5 @@ stay tune for learning every logical concepts of JS.
     Array Method
     Object Method
     AlgoBasicToIntermediate
-    AlgoIntermediateToAdvance
+    AlgoIntermediateToAdvance 
  -->
